@@ -1,6 +1,6 @@
 I set up a simple 2D model to study the effect of a magma chamber (with a low shear wave velocity) on the seismic waves propagating through a vulcano. The waves source is an earthquake in a depth of 5 km and is modeled by a Ricker-wavelet with a center frequency of 2 Hz. A very dense line of receivers at the surface allows to extract the synthetic seismograms. The scattering of the waves is nicely observable. Please find the results below...
 
-## 2D model and geometry
+## 2D model, mesh and geometry
 <img src="https://user-images.githubusercontent.com/64535952/142160740-f9c9dbf9-678e-42b2-ace7-b9bedc1ad869.PNG" width="60%">
 
 ## Wave propagation animation
