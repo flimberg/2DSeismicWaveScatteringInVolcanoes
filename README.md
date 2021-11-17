@@ -8,8 +8,8 @@ I set up a simple 2D model to study the effect of a magma chamber (with a low sh
 https://user-images.githubusercontent.com/64535952/142159508-88809ea6-3621-48a9-a1ef-9e0d650e8a5e.mp4
 
 ## Seismic sections at receiver line
-Without magma chamber
-![wiggles_wo](https://user-images.githubusercontent.com/64535952/142159617-5a61d0b1-989f-47ad-ae1f-d58c1ec88ff6.PNG)
+Without magma chamber<br>
+<img src="https://user-images.githubusercontent.com/64535952/142159617-5a61d0b1-989f-47ad-ae1f-d58c1ec88ff6.PNG" width="60%"><br>
+With magma chamber<br>
+<img src="https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG" width="60%"><br>
 
-With magma chamber
-![wiggles_w](https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG)
