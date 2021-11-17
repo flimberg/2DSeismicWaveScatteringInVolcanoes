@@ -13,5 +13,3 @@ Without magma chamber
 
 Without magma chamber
 ![wiggles_w](https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG)
-
-
