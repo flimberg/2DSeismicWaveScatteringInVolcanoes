@@ -11,5 +11,5 @@ https://user-images.githubusercontent.com/64535952/142159508-88809ea6-3621-48a9-
 Without magma chamber
 ![wiggles_wo](https://user-images.githubusercontent.com/64535952/142159617-5a61d0b1-989f-47ad-ae1f-d58c1ec88ff6.PNG)
 
-Without magma chamber
+With magma chamber
 ![wiggles_w](https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG)
