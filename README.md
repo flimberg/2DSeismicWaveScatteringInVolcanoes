@@ -17,15 +17,9 @@ With magma chamber<br>
 https://user-images.githubusercontent.com/64535952/145036221-c1e0a460-2ad2-4651-8b1a-c6e5fad54eb0.mp4
 
 
-
-https://user-images.githubusercontent.com/64535952/145036516-bfc1cd05-3e5a-4add-aba1-43266b3347ad.mp4
-
-
-
 ## Seismic sections at receiver line (source at crater)
 Without magma chamber<br>
 ![craterSource_wo](https://user-images.githubusercontent.com/64535952/145036839-4539495d-a621-416d-830f-18711dc6c030.png)
-
 
 With magma chamber<br>
 ![craterSource](https://user-images.githubusercontent.com/64535952/145036907-3dd0f0d5-08cf-4c00-a841-3b6e71d2999b.png)
