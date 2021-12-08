@@ -4,7 +4,6 @@ I set up a simple 2D numerical model to study the effect of a magma chamber (wit
 <img src="https://user-images.githubusercontent.com/64535952/142173329-532dad3d-df70-4d58-b0dd-5370785016f2.PNG" width="60%">
 
 ## Wave propagation animation
-
 https://user-images.githubusercontent.com/64535952/142159508-88809ea6-3621-48a9-a1ef-9e0d650e8a5e.mp4
 
 ## Seismic sections at receiver line
@@ -14,7 +13,7 @@ With magma chamber<br>
 <img src="https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG" width="60%"><br>
 
 ## Wave propagation animation (source at crater)
-https://user-images.githubusercontent.com/64535952/145036221-c1e0a460-2ad2-4651-8b1a-c6e5fad54eb0.mp4
+https://user-images.githubusercontent.com/64535952/145217403-3708e723-6ab6-4069-8d59-d5db3897de17.mp4
 
 
 ## Seismic sections at receiver line (source at crater)
