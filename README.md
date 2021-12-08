@@ -13,6 +13,8 @@ With magma chamber<br>
 <img src="https://user-images.githubusercontent.com/64535952/142159625-78f79eb8-97d9-4dea-85cd-b191986944ac.PNG" width="60%"><br>
 
 ## Wave propagation animation (source at crater)
+Left: Without magma chamber                Right: With magma chamber
+
 https://user-images.githubusercontent.com/64535952/145217403-3708e723-6ab6-4069-8d59-d5db3897de17.mp4
 
 
