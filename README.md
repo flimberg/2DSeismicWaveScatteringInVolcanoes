@@ -12,7 +12,7 @@ Check out these notebooks:
 - First exemplary simple tests with animations of the wave propagation.
 
 
-##### layerVolcano.md
+##### layeredVolcano.md
 - The effect of layers in the volcano efidice. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
 
