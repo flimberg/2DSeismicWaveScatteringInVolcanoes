@@ -3,7 +3,7 @@ Description
 The edifice is layer with decreasing velocity from base to top of the volcano.
 The contrast between the s-wave velocity of the magma and the surrounding rock is systematically varied from 80% (low contrast) to 10% (high contrast). 
 The higher the contrast, the clearer the scattering. 
-The resoncance recorded at the station at the top (center stations) is not observable if the constrast is 0.5 and 0.8.
+The resonance recorded at the stations at the top (center stations) is not observable if the constrast is 0.5 and 0.8.
 
 Figure A: Model for the simulation.
 ![model_layer](https://user-images.githubusercontent.com/64535952/148915832-a443dea8-741d-49bd-8d62-4fa9873a7d5f.PNG)
