@@ -21,10 +21,10 @@
 
 
 
-#### Figure C: The contrast between magma and s-wave velocity is fixed to 30% (0.3), but the perturbation is now varied.
+#### Figure C: The contrast between s-wave velocity of magma and rock is fixed to 30% (0.3), but the perturbation is now varied.
 ![results_perturb](https://user-images.githubusercontent.com/64535952/148930879-cb4d3e7a-82f6-4a19-9a11-aaac820205b2.png)
 
-#### Figure D: Scattered wave field without chamber and pipe, with chamber only and with chamber and pipe (contrast: 30%, no perturbation).
+#### Figure D: Scattered wave fields without chamber and pipe, with chamber only and with chamber and pipe (contrast: 30%, no perturbation).
 ![chamberAndPipe](https://user-images.githubusercontent.com/64535952/148952173-9e40d423-2483-4938-b9b0-fb5e65ffa3c6.png)
 
 
