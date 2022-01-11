@@ -1,4 +1,4 @@
-# Seismic wave scatterind in a volcano
+# Scattering of seismic waves in a volcano
 <img src="https://user-images.githubusercontent.com/64535952/148927258-66d6e988-cee7-42b7-8d7b-21e9feefdd47.PNG" width="40%">
 
 Our aim is to simulate the scattering of earthquake waves in a volcano due to a magma chamber and vaolcanic pipe.
