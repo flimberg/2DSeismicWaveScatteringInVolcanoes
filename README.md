@@ -1,8 +1,10 @@
 # 2DVolcanoAndSeismicWaves
 
-We investigate the scattering of seismic waves due to a magma chamber and pipe of a volcano based on numerical simulations.
-The contrast betweent seismic velocities of the magma and surrounding rock as well as velocity perurbations are systematically studied.
-Furthermore the effect of a layer volcano efidice is simulated.
+We simulate the scattering of earthquake waves due to a magma chamber and pipe in a volcano.
+The contrast between the seismic velocity of the magma and the surrounding rock as well as velocity perturbations of the surrounding rock are systematically studied.
+Furthermore the effect of a layered volcano efidice is considered.
+
+<img src="https://user-images.githubusercontent.com/64535952/148927258-66d6e988-cee7-42b7-8d7b-21e9feefdd47.PNG" width="40%">
 
 Check out these notebooks:
 
