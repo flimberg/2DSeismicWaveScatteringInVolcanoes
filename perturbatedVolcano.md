@@ -3,7 +3,7 @@ Description
 - The s- and p-wave velocity of the surrounding rock is perturbated by 5% (later varied).
 - The contrast between the s-wave velocity of the magma and the surrounding rock is systematically varied from 80% (low contrast, the magma has 80% of the surrounding s-wave velocity) to 10% (high contrast). 
 - The higher the contrast, the clearer the scattering of the wave due to the magma. 
-- The resonance recorded at the stations at the top (center stations) is not observable if the constrast is 0.5 and 0.8.
+- The resonance recorded at the stations at the top (center stations) is not observable if the constrast is 0.8.
 - With increasing perturbation, the scattering of the seismic waves at the magma chamber and pipe becomes hidden in the scattering due to velocity perturbation.
 - However, the resonance at the center stations is observable in all scenarios (even if perturbation is 50%). 
 - The key parameter is rather the contrast between magma and rock, and the the general heterogenity of the rock.
