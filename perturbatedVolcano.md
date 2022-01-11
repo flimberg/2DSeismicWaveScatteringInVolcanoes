@@ -13,5 +13,5 @@ Figure B: Seismic sections obtained from simulations with varying A (see model).
 ![results_random](https://user-images.githubusercontent.com/64535952/148917553-762cfb0c-67bc-4e79-a79d-5c7b90cf2a92.png)
 
 
-Figure C: Seismic section of the layered volcano if magma is not included in the model.
+Figure C: Seismic section of the perturbed volcano if magma is not included in the model.
 ![noContrast_random_2Hz_wo](https://user-images.githubusercontent.com/64535952/148917568-18c185ee-1b3e-4b46-a268-1b4d65976573.PNG)
