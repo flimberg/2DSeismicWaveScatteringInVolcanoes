@@ -9,14 +9,15 @@ Check out the notebooks (by clicking on the files) in this repository:
 ##### Benchmarks.md 
 - First exemplary simple tests with animations of the wave propagation.
 
+##### perturbedVolcano.md
+- The effect of velocity perturbation in the volcano efidice. 
+- Firstly, the contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
+- Secondly, the velocity perturbation of the surrounding rock is systematically varied.
+- Thridly, wave fields that include chamber, chamber+pipe or none of the structures are compared.
 
 ##### layeredVolcano.md
 - The effect of layers in the volcano efidice. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
 
 
-##### perturbedVolcano.md
-- The effect of velocity perturbation in the volcano efidice. 
-- Firstly, the contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
-- Secondly, the velocity perturbation of the surrounding rock is systematically varied.
-- Thridly, wave fields that include chamber, chamber+pipe or none of the structures are compared.
+
