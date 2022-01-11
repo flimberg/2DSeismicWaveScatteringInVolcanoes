@@ -5,7 +5,7 @@
 - The higher the contrast, the clearer the scattering of the wave due to the magma. 
 - The resonance recorded at the stations at the top (center stations) is not observable if the constrast is 0.8.
 - With increasing perturbation, the scattering due to the magma chamber and pipe becomes hidden in the scattering due to velocity perturbation.
-- However, the resonance at the center stations is observable in all scenarios (even if perturbation is 50%). 
+- However, the resonance at the center stations is implied in all scenarios (even if perturbation is 50%). 
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 - If the pipe is not included in the model, scattered waves are missing in the center of the receiver line.
 
