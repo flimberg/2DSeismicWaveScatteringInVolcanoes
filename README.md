@@ -22,3 +22,4 @@ Check out the notebooks (by clicking on the files) in this repository:
 - The effect of velocity perturbation in the volcano efidice. 
 - Firstly, the contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
 - Secondly, the velocity perturbation of the surrounding rock is systematically varied.
+- Thridly, wave fields that include chamber, chamer+pipe or none of the structures are compared.
