@@ -7,7 +7,7 @@ Furthermore the effect of a layered volcano efidice is considered.
 
 
 
-Check out the notebooks in this repository:
+Check out the notebooks (by clicking on the files) in this repository:
 
 ##### Benchmarks.md 
 - First exemplary simple tests with animations of the wave propagation.
