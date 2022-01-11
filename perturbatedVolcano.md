@@ -9,7 +9,10 @@ Description
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 
 Figure A: Model for the simulation.
-![model_random](https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG)
+
+<img src="https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG" width="50%">
+<!---![model_random](https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG)
+--->
 
 
 Figure B: Seismic sections obtained from simulations with varying A (see model).
