@@ -9,22 +9,22 @@
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 - If the pipe is not included in the model, scattered waves are missing in the center of the receiver line.
 
-#### Figure A: Model for the simulation.
+#### Figure 1: Model for the simulation.
 
 <img src="https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG" width="50%">
 <!---![model_random](https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG)
 --->
 
 
-#### Figure B: Seismic sections obtained from simulations with varying A (see model).
+#### Figure 2: Seismic sections obtained from simulations with varying A (see model).
 ![results_random](https://user-images.githubusercontent.com/64535952/148917553-762cfb0c-67bc-4e79-a79d-5c7b90cf2a92.png)
 
 
 
-#### Figure C: The contrast between s-wave velocity of magma and rock is fixed to 30% (0.3), but the perturbation is now varied.
+#### Figure 3: The contrast between s-wave velocity of magma and rock is fixed to 30% (0.3), but the perturbation is now varied.
 ![results_perturb](https://user-images.githubusercontent.com/64535952/148930879-cb4d3e7a-82f6-4a19-9a11-aaac820205b2.png)
 
-#### Figure D: Scattered wave fields without chamber and pipe, with chamber only and with chamber and pipe (contrast: 30%, no perturbation).
+#### Figure 4: Scattered wave fields without chamber and pipe, with chamber only and with chamber and pipe (contrast: 30%, no perturbation).
 ![chamberAndPipe](https://user-images.githubusercontent.com/64535952/148952173-9e40d423-2483-4938-b9b0-fb5e65ffa3c6.png)
 
 
