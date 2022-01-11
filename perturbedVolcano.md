@@ -9,11 +9,13 @@
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 - If the pipe is not included in the model, scattered waves are missing in the center of the receiver line.
 
-#### Figure 1: Model for the simulation.
+#### Figure 1: Model for the simulation and snapshot of the highly scattered wave field.
 
-<img src="https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG" width="50%">
+<img src="https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG" width="50%"><img src="https://user-images.githubusercontent.com/64535952/148975575-64209a1e-855b-477a-8e8d-a53dc2ccc29f.PNG" width="50%">
+
 <!---![model_random](https://user-images.githubusercontent.com/64535952/148917549-320cacca-16fe-450f-9107-434e5c68a537.PNG)
 --->
+
 
 
 #### Figure 2: Seismic sections obtained from simulations with varying A (see model).
