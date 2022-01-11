@@ -6,7 +6,7 @@ The effect of the contrast between the seismic velocity of the magma and the sur
 
 Check out the notebooks (by clicking on the files) in this repository:
 
-#### [Benchmarks.md ](/Benchmarks.md) 
+#### [Benchmarks.md](/Benchmarks.md) 
 - First exemplary simple tests with animations of the wave propagation.
 
 #### [perturbedVolcano.md](/perturbedVolcano.md)
