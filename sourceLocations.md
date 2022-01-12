@@ -6,7 +6,7 @@
 - Scattering due to the magma chamber seems to be measured better, if the source is located somewhere beneath the chamber (A,B) and not in the efidice (C,D).
 
 #### Figure 1: Source locations.
-<img src="https://user-images.githubusercontent.com/64535952/149157454-ddf3f99b-7276-40bd-ac45-ed418a88dbb9.png" width="50%">
+<img src="https://user-images.githubusercontent.com/64535952/149157454-ddf3f99b-7276-40bd-ac45-ed418a88dbb9.png" width="30%">
 
 
 
