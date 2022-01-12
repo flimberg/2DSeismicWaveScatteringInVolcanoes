@@ -8,6 +8,7 @@
 - However, the resonance at the center stations is implied in all scenarios (even if perturbation is 50%) (Fig. 3). 
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 - If the pipe is not included in the model, scattered waves are missing in the center of the receiver line (Fig. 4).
+- The lower the resolution of the random velocity perturbation, the lower is the scattering due to velocity heterogenities (Fig. 5).
 
 #### Figure 1: Model for the simulation and snapshot of the highly scattered wave field.
 
@@ -25,6 +26,9 @@
 #### Figure 4: Scattered wave fields without chamber and pipe, with chamber only and with chamber and pipe (contrast: 30%, no perturbation).
 ![chamberAndPipe](https://user-images.githubusercontent.com/64535952/148952173-9e40d423-2483-4938-b9b0-fb5e65ffa3c6.png)
 
+#### Figure 5: The effect of the resolution of the perturbation on the background scattered wave field (without magma chamber).
+
+![resolution_perturbation](https://user-images.githubusercontent.com/64535952/149167724-4c57fd5e-85cd-48e9-80ac-dcabda4bb900.png)
 
 <!---
 #### Figure X: Seismic section of the perturbed volcano if magma is not included in the model.
