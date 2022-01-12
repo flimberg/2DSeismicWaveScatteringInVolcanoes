@@ -6,9 +6,6 @@ The effect of the contrast between the seismic velocity of the magma and the sur
 
 Check out the notebooks in this repository:
 
-#### [sourceLocations.md](/sourceLocations.md)
-- Simulations with four different locations of the source (deep down, directly under the chamber, next to the chamber, at the top)
-
 #### [perturbedVolcano.md](/perturbedVolcano.md)
 - The effect of velocity perturbation in the volcanic efidice. 
 - Firstly, the contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
@@ -18,6 +15,9 @@ Check out the notebooks in this repository:
 #### [layeredVolcano.md](/layeredVolcano.md)
 - The effect of layers in the volcanic efidice is studied. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
+
+#### [sourceLocations.md](/sourceLocations.md)
+- Simulations with four different locations of the source (deep down, directly under the chamber, next to the chamber, at the top)
 
 #### [Benchmarks.md](/Benchmarks.md) 
 - First exemplary simple tests with animations of the wave propagation through a volcanic system.
