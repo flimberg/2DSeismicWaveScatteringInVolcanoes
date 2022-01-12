@@ -19,6 +19,6 @@ Check out the notebooks in this repository:
 #### [sourceLocations.md](/sourceLocations.md)
 - Simulations with four different locations of the source (deep down, directly under the chamber, next to the chamber, at the top)
 
-#### [Benchmarks.md](/Benchmarks.md) 
+#### [benchmarks.md](/benchmarks.md) 
 - First exemplary simple tests with animations of the wave propagation through a volcanic system.
 
