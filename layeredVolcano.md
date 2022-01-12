@@ -7,16 +7,13 @@
 - By comparing the seismic sections with and without chamber and pipe, the scattering due to the layers only is not significant in this scenario.
 
 #### Figure 1: Model for the simulation.
+<img src="https://user-images.githubusercontent.com/64535952/149151001-136a255d-e1cb-4190-b380-78b24c99261a.png" width="60%">
 
 
-<img src="https://user-images.githubusercontent.com/64535952/148915832-a443dea8-741d-49bd-8d62-4fa9873a7d5f.PNG" width="60%">
+#### Figure 2: Seismic sections obtained from simulations with varying contrast between magma and surrounding rock (see model).
+![results_toposhape_layer](https://user-images.githubusercontent.com/64535952/149151144-61dda920-c505-44dc-abe9-0fe635e512e5.png)
 
 
 
-#### Figure 2: Seismic sections obtained from simulations with varying A (see model).
-![results_layer](https://user-images.githubusercontent.com/64535952/148915817-a40fe27b-d54f-47cb-8270-0486d52fe764.png)
 
-#### Figure 3: Seismic section of the layered volcano if magma is not included in the model.
-
-<img src="https://user-images.githubusercontent.com/64535952/148916679-a2816c26-d922-45be-8101-4faf4abf7f89.PNG" width="60%">
 
