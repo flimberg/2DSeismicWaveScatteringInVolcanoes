@@ -10,11 +10,12 @@ Check out the notebooks in this repository:
 - The effect of velocity perturbation in the volcanic efidice. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
 - The velocity perturbation and its  the resolution of perturbation of the surrounding rock is systematically varied.
-- Wave fields that include chamber, chamber+pipe or none of the structures are compared.
+
 
 #### [layeredVolcano.md](/layeredVolcano.md)
 - The effect of layers in the volcanic efidice is studied. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
+- Wave fields that include chamber, chamber+pipe or none of the structures are compared.
 
 #### [sourceLocations.md](/sourceLocations.md)
 - Simulations with four different locations of the source (deep down, directly under the chamber, next to the chamber, at the top)
