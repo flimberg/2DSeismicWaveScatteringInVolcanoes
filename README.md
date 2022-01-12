@@ -7,7 +7,7 @@ The effect of the contrast between the seismic velocity of the magma and the sur
 Check out the notebooks in this repository:
 
 #### [sourceLocations.md](/sourceLocations.md)
-- Simulations with four different locations of the source (deep, under the chamber, next to the chamber, at the crater)
+- Simulations with four different locations of the source (deep down, directly under the chamber, next to the chamber, at the top)
 
 #### [perturbedVolcano.md](/perturbedVolcano.md)
 - The effect of velocity perturbation in the volcanic efidice. 
