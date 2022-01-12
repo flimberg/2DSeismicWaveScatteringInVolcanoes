@@ -18,8 +18,9 @@
 
 
 
-#### Figure 2: Seismic sections obtained from simulations with varying A (see model).
-![results_random](https://user-images.githubusercontent.com/64535952/148917553-762cfb0c-67bc-4e79-a79d-5c7b90cf2a92.png)
+#### Figure 2: Seismic sections obtained from simulations with varying contrast between magma and surrounding rock (see model).
+![results_random](https://user-images.githubusercontent.com/64535952/149152002-c6959b44-def9-4213-9fea-d8ce5a459dd7.png)
+
 
 
 
