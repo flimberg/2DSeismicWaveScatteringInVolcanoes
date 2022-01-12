@@ -1,8 +1,8 @@
 ## Description
 
-- No velocity perturbation.
+- No velocity perturbation of the surrounding rock.
 - The magma has a S-wave velocity of 30 % of the surrounding rock.
-- Sources are located at various positions.
+- Sources are located at four different positions (A,B,C and D).
 - Scattering due to the magma chamber seems to be measured better, if the source is located somewhere beneath the chamber (A,B) and not in the efidice (C,D).
 
 #### Figure 1: Source locations.
