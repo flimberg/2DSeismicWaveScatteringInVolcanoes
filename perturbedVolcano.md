@@ -4,7 +4,7 @@
 - The contrast between the s-wave velocity of the magma and the surrounding rock is systematically varied from 80% (low contrast, the magma has 80% of the surrounding s-wave velocity) to 10% (high contrast). 
 - The higher the contrast, the clearer the scattering of the wave due to the magma (Fig. 2). 
 - The resonance recorded at the stations at the top (center stations) is not observable if the constrast is 0.8 (Fig. 2).
-- With increasing perturbation, the scattering due to the magma chamber and pipe becomes hidden in the scattering due to velocity perturbation (Fig. 3).
+- With increasing perturbation, the scattering due to the magma chamber and pipe becomes hidden in the scattering due to the velocity perturbation (Fig. 3).
 - However, the resonance at the center stations is implied in all scenarios (even if perturbation is 50%) (Fig. 3). 
 - The key parameter is rather the contrast between magma and rock, and not the general heterogenity of the rock.
 - The lower the resolution of the random velocity perturbation, the lower is the scattering due to velocity heterogenities (Fig. 4).
