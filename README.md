@@ -6,14 +6,14 @@ The effect of the contrast between the seismic velocity of the magma and the sur
 
 Check out the notebooks in this repository:
 
-#### [perturbedVolcano.md](/perturbedVolcano.md)
-- The effect of velocity perturbation in the volcanic efidice. 
+#### [perturbedVolcano.md](/perturbedVolcano.md) 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
-- The velocity perturbation and its  the resolution of perturbation of the surrounding rock is systematically varied.
+- The effect of velocity perturbation in the volcanic edifice is studied.
+- The resolution of perturbation of the surrounding rock is systematically varied.
 
 
 #### [layeredVolcano.md](/layeredVolcano.md)
-- The effect of layers in the volcanic efidice is studied. 
+- The effect of layers in the volcanic edifice is studied. 
 - The contrast between s-wave velocity of the magma and surrounding rock is systematically varied.
 - Wave fields that include chamber, chamber+pipe or none of the structures are compared.
 
