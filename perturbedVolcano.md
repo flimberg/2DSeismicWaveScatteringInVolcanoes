@@ -24,7 +24,7 @@
 
 
 
-#### Figure 4: The effect of the resolution of the perturbation on the background scattered wave field (without magma chamber).
+#### Figure 4: The effect of the resolution of the perturbation on the background scattered wave field (without magma chamber and pipe).
 
 ![resolution_perturbation](https://user-images.githubusercontent.com/64535952/149167724-4c57fd5e-85cd-48e9-80ac-dcabda4bb900.png)
 
